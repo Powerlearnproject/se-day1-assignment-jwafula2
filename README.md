@@ -15,4 +15,4 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models. Prompt engineering means crafting questions in the best way possible to get the best possible responses in AI models. It therefore entails giving clear instructions.
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective. An example of a vague prompt: What is engineering? The improved prompt: Taking the role of an experienced software engineer, define software engineering to a 15 year old student.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective. An example of a vague prompt: What is engineering? The improved prompt: Taking the role of an experienced software engineer, define software engineering to a 15 year old African kid.
