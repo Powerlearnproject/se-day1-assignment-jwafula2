@@ -4,34 +4,15 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
-
-
-Identify and describe at least three key milestones in the evolution of software engineering.
-
-
-List and briefly explain the phases of the Software Development Life Cycle.
-
-
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
-
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
-
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
-
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
-
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
-
+Explain what software engineering is and discuss its importance in the technology industry. Sofware engineering is the design, development, deployment and maintenance of software products. It involves using engineering skills to come up with a software product. It is  important in the technology industry as it enables one to model different industrial aspects such as commerce, communication, healthcare, entertainment among others. This enables more effecient and effective system in industry.
+Identify and describe at least three key milestones in the evolution of software engineering. Key milestones in the evolution of software engineering include: Development of programming language such as C, python among others. These are used in software development. Secondly, software egineering was established into a discipline. The discipline was established in 1960s and has continued to grow. It is being pursued by many following the need for digital solutions to today's problems. Third is the emergence of structured programming in the 1970s followed by agile technologies in the 2000s. Agile technologies have brought in the ability for people to work iteratively in software development, and in teams.
+List and briefly explain the phases of the Software Development Life Cycle. The Software Development Life Cycle (SDLC) includes the following phases: a) Requirements phase- this involves gathering and documenting the user needs and information. b) Design phase which entails creating detailed designs of the software architecture and user interface. c) Implementation phase that involves writing code and building the software per design specifications. d) Testing phase which is aimed at ensuring that the software meets the quality standards and functional requirements. e) Deployment phase whereby the software is released to users or customers. f) Maintenance phase that enatils ongoing support, updates and enhancements being done on the software.
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate. The waterfall methodologies are sequential with distinct phases such as requirement, design etc that flow downward like a waterfall while the Agile methodologies are iterative and incremental allowing flexibility, collaboration and able to respond to change
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team. The Software Developer is responsible for writing code and implementing software solutions. The Quality Assurance Engineer ensures that the software is of quality by designing and excuting the test plans. The Project mMnager oversees the planning, execution and delivery of software projects.
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each. The Integrated Development Environments (IDEs) and Version Control Systems (VCS) are important software engineering tools in software development. Integrated Development Environments (IDEs) are software suites with comprehensive tools that are essential for writing, debugging and testing code, for example eclipse. Version Control Systems (VCS) is important for tracking change to source code and in coordinating work among teams, for example Git.
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges. Some of the common challenges faced by software engineers include changing requirements which entails changes during the development cycle that can lead to scope creep and delays in the project. This can be overcome by re-assessment of project goals and applying agile methodologies. A second challenge is tight deadlines which can assert pressure to deliver on schdelue leading to rushed development and compromised quality. This can be overcome by prioritization of tasks and re-assessment of project timelines. Technical debt that can arise from taking shortcuts or suboptimal solutions impeding future efforts for development or increased maintenance costs. These problems can be oversome through agile methodologies. All the aboe challenges also call for effective communication.
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance. The different types of testing include: Unit testing which tests individual components or modules of software. Integration testing  involves testing the interactions between different components of subsystems while System testing involes testing an entire system. Acceptance testing involves testing the software against user requirments to meet user needs.
 #Part 2: Introduction to AI and Prompt Engineering
 
-
-Define prompt engineering and discuss its importance in interacting with AI models.
-
-
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Define prompt engineering and discuss its importance in interacting with AI models. Prompt engineering means crafting questions in the best way possible to get the best possible responses in AI models. It therefore entails giving clear instructions.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective. An example of a vague prompt: What is engineering? The improved prompt: Taking the role of an experienced software engineer, define software engineering to a 15 year old student.
